@@ -1,5 +1,5 @@
 # Litematica-Block-Changer
-Python Prompt Based Litematica Block Changer.
+Have you ever downloaded a Schematic just to find out that one Block type is wrong? Me too! That's because I created this Python Prompt Based Litematica Block Changer for you to use :)
 
 ## Requirements
 
