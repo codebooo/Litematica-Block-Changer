@@ -39,3 +39,10 @@ python3 litematic_replacer.py
 - Select the block to replace (by number or name)
 - Enter the replacement block name
 - Confirm the replacement
+
+Questions you'll never have to ask again:
+- Replacing all of one block type with another block type?
+- It is possible to replace all of one block type with another block type?
+- Replace litematica blocks
+- Material List Changer Litematica?
+- Help me I wanna replace a material from litematica
