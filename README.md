@@ -10,8 +10,8 @@ nbtlib library for NBT file handling
 
 1. Clone or download this repository
 ```python
-bashgit clone https://github.com/yourusername/litematic-block-replacer.git
-cd litematic-block-replacer
+git clone https://github.com/codebooo/Litematica-Block-Changer
+cd Litematic-Clock-Replacer
 ```
 
 2. Install required dependencies
