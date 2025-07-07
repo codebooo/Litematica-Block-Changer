@@ -25,10 +25,14 @@ pip3 install nbtlib
 ## Usage
 
 1. Run the script
+```python
 python litematic_replacer.py
+```
 or
+```python
 python3 litematic_replacer.py
-2. Follow the interactive prompts:
+```
+3. Follow the interactive prompts:
 
 - Enter the path to your .litematic file
 - View the list of blocks found in the schematic
