@@ -9,17 +9,17 @@ nbtlib library for NBT file handling
 ## Installation
 
 1. Clone or download this repository
-```bash
+```python
 bashgit clone https://github.com/yourusername/litematic-block-replacer.git
 cd litematic-block-replacer
 ```
 
 2. Install required dependencies
-```bash
+```python
 pip install nbtlib
 ```
 Or if you prefer using pip3:
-```bash
+```python
 pip3 install nbtlib
 ```
 ## Usage
